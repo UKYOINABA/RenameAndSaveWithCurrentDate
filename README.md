@@ -1,0 +1,4 @@
+# RenameAndSaveWithCurrentDate
+
+ファイルの末尾に現在の日付を_YYYYMMDD形式で追加し別名で保存するだけのjsxです。
+jsxLauncherなどにぶち込んで使ってください。
